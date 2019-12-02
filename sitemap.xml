@@ -3,37 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://birmcam.github.io/birmcam/</loc>
+    <loc>/birmcam/about/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/birmcam/tags/about/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/birmcam/about-the-project/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/birmcam/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/birmcam/post/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/birmcam/tags/ehr/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/birmcam/tags/multimorbidity/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/birmcam/tags/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/birmcam/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://birmcam.github.io/birmcam/post/</loc>
+    <loc>/birmcam/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://birmcam.github.io/birmcam/2015-07-23-r-rmarkdown/</loc>
+    <loc>/birmcam/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://birmcam.github.io/birmcam/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://birmcam.github.io/birmcam/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://birmcam.github.io/birmcam/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://birmcam.github.io/birmcam/tags/</loc>
+    <loc>/birmcam/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   

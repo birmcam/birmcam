@@ -2,39 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on BIRMCAM</title>
-    <link>https://birmcam.github.io/birmcam/tags/</link>
+    <link>/birmcam/tags/</link>
     <description>Recent content in Tags on BIRMCAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://birmcam.github.io/birmcam/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/birmcam/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>about</title>
+      <link>/birmcam/tags/about/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/birmcam/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ehr</title>
+      <link>/birmcam/tags/ehr/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/birmcam/tags/ehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimorbidity</title>
+      <link>/birmcam/tags/multimorbidity/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/birmcam/tags/multimorbidity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>plot</title>
-      <link>https://birmcam.github.io/birmcam/tags/plot/</link>
+      <link>/birmcam/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://birmcam.github.io/birmcam/tags/plot/</guid>
+      <guid>/birmcam/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://birmcam.github.io/birmcam/tags/r-markdown/</link>
+      <link>/birmcam/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://birmcam.github.io/birmcam/tags/r-markdown/</guid>
+      <guid>/birmcam/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://birmcam.github.io/birmcam/tags/regression/</link>
+      <link>/birmcam/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://birmcam.github.io/birmcam/tags/regression/</guid>
+      <guid>/birmcam/tags/regression/</guid>
       <description></description>
     </item>
     
