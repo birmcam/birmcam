@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multimorbidity on BIRMCAM</title>
+    <link>/birmcam/tags/multimorbidity/</link>
+    <description>Recent content in multimorbidity on BIRMCAM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/birmcam/tags/multimorbidity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About The Project</title>
+      <link>/birmcam/about-the-project/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/birmcam/about-the-project/</guid>
+      <description>Introduction BIRMCAM is led by Professors Tom Marshall (University of Birmingham) and Sylvia Richardson (MRC Biostatistics Unit, University of Cambridge).
+Multimorbidity Multimorbidity is when people suffer from more than one long-term illness. It is increasingly common as people live longer. It is important because individual illnesses have knock-on effects on others, it is more complex managing multiple than single illnesses, and multimorbid patients are heavy users of medications and health services.</description>
+    </item>
+    
+  </channel>
+</rss>
